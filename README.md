@@ -4,11 +4,8 @@ AdpInEKF for 3D point cloud localization, in which the points of a 3D point clou
 For more information, please refer to
 
 @article{BarrauB15An,
-
   author    = {Axel Barrau and Silvere Bonnabel},
-  
-  title     = {An {EKF-SLAM} algorithm with consistency properties},
-  
+  title     = {An {EKF-SLAM} algorithm with consistency properties}, 
   journal   = {CoRR},
   volume    = {abs/1510.06263},
   year      = {2015},
